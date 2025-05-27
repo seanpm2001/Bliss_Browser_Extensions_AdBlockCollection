@@ -1,0 +1,1 @@
+🌳️🌐️🧩️💾️ The official source repository for the Bliss Browser AdBlock Collection Extension module, adding support for various ad blocking tools into Bliss Browser (such as uBlock Origin, AdGuard, and many more) it is a bundle extension.
